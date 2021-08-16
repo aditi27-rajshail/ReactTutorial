@@ -1,6 +1,6 @@
-# Welcome to React Series ![image]
+# Welcome to React Js Series 
 
-![image](https://user-images.githubusercontent.com/65382019/129562425-8e854687-3dc4-4bfc-9c98-f9cbfebeedaf.png)
+![image](https://user-images.githubusercontent.com/65382019/129562520-74f1dc52-ccbf-4419-a7f4-07c1625e9a0c.png)
 
 Follow the tutorials and read the comments for better understanding
 Eventually, move towards the project
