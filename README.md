@@ -1,5 +1,5 @@
-# Welcome to React Series ![image](https://user-images.githubusercontent.com/65382019/129561962-a1bfbd96-0411-4448-8c70-6882267bb363.png)
-##  Learn React in 1 week
+# Welcome to React Series ![image](https://user-images.githubusercontent.com/65382019/129562195-4704d21a-3bba-4c1d-bf31-f1f70863645c.png)
+
 Follow the tutorials and read the comments for better understanding
 Eventually, move towards the project
 ------------------------------------
