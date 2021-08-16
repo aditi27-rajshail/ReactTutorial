@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet&display=swap');
+*{  margin:0; 
+    padding:0;
+    box-sizing: border-box;}
+
+body{
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #8d9fda;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.main_div{
+    width: 600px;
+    background-color: #f4f0f8;
+    box-shadow: 5px 5px 25px -5px #312f72;
+    border-radius: 15px;
+    padding: 50px;
+}
+
+h1{
+
+    color:#312f72;
+    background: transparent;
+    font-family: 'Hahmlet', serif;
+    text-transform: capitalize;
+    font-size: 30px;
+
+}
+.main-heading{
+    font-size: 13px;
+    background-color: rgb(227, 210, 241);
+    margin-top: 25px;
+    align-items: center;
+}
+
+.main-heading p{
+    width:35px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 50%;
+    background: rgb(169, 113, 241);
+    padding: 5px 5px 5px 5px;  
+    
+}
+p{
+    color: #fff;
+    font-size: large;
+    font-weight: 900;
+    align-items: center;
+    padding: 5px 5px 5px 5px;  
+    
+}
+h3{
+    font-family: 'Hahmlet', serif;
+    padding-bottom: 20px;
+    margin-top: 0px;
+     
+
+}
+.answers{
+    padding: 15px 15px 15px 15px;
+    font-family: 'Hahmlet', serif;
+    font-size: 15px;
+    word-spacing: 1px;
+    font-weight: 900;
+    line-height: 1.7;
+    background: #cfc2fd;
+    color: #1e1c44;
+
+}
+

@@ -1,0 +1,62 @@
+<!--The map() method creates a new array with the results of calling a function for every 
+array element. The map() method calls the provided function once for each elemt
+in an array in order
+Syntax
+array.map(function(currentvalue,index,arr), this Value)
+
+Argument           Description
+currentValue       Required. The value of the current element
+index(optional)    The array index of the current element
+arr(optional)      The array object the current element belongs to --->
+<script>
+    const arr = ['US', 'Canada', 'UK', 'NZ'];
+    console.log(arr[0]);
+
+    const newarr = arr.map(function (val) {
+        return val;
+        return val + " study in";
+    });
+
+    const newarr1 = arr.map(function (val, i) {
+        return i + " : " + val;
+
+    });
+    console.log(newarr);
+    //["US study in", "Canada study in", "UK study in", "NZ study in"]
+    console.log(arr);
+    //["US", "Canada", "UK", "NZ"]
+    //The array is not changed and map helps to make changes to the array.
+    console.log(newarr1)
+    //["0 : US", "1 : Canada", "2 : UK", "3 : NZ"]
+
+    const Sdata = [
+        {
+            id: 1,
+            name: "A",
+            country: "US"
+        },
+        {
+            id: 1,
+            name: "C",
+            country: "Uk"
+        },
+        {
+            id: 3,
+            name: "B",
+            country: "NZ"
+        }
+
+    ]
+    const newarr2= Sdata.map((val)=>{
+        return(
+           `my id is ${val.id} name is ${val.name} and i will study in ${val.country}`
+        );
+    });
+    console.log(newarr2);
+//["my id is 1 name is A and i will study in US", "my id is 1 name is C and i will study in Uk", "my id is 3 name is B and i will study in NZ"]
+
+
+
+
+
+</script>

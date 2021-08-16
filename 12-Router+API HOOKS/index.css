@@ -1,0 +1,28 @@
+
+
+*{  margin:0; 
+    padding:0;
+    box-sizing: border-box; 
+    background-color: rgb(247, 244, 244);
+}
+a{
+    color: cornflowerblue;
+    background-color: black;
+}
+
+a:hover{
+    color: blueviolet;
+}
+
+a.active_calss{
+    color:rgb(19, 18, 18);
+    border-bottom: 1px solid red;
+    background-color: black;
+}
+.menue_style{
+    width:100%;
+    line-height: 60px;
+    background-color: rgb(12, 12, 12);
+    display: flex;
+    justify-content: space-around;
+}
