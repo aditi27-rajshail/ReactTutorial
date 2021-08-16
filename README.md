@@ -1,6 +1,6 @@
 # Welcome to React Js Series 
 
-![image width="300"](https://user-images.githubusercontent.com/65382019/129563952-703e388b-1b3b-4f47-86b4-35fc5dd29e5f.png)
+![image width="200" height="200"](https://user-images.githubusercontent.com/65382019/129563952-703e388b-1b3b-4f47-86b4-35fc5dd29e5f.png)
 
 ## Follow the tutorials and read the comments for better understanding
 - Eventually, move towards the project
