@@ -1,6 +1,6 @@
 ## Increment
               
-![image](https://user-images.githubusercontent.com/65382019/129560710-b47ea08e-f9ac-469d-8cdf-571422eea892.png)
+![image](https://user-images.githubusercontent.com/65382019/129560875-71804cc9-51bb-4010-926a-b350ae780ebc.png)
 
 ## Decrement
 
