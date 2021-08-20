@@ -62,7 +62,12 @@ const App = () => {
     );
 }
 export default App;
-/* const App = () => {
+/* 
+React uses the concept of 'controlled components' for forms
+These components send any changes through the React State onChange
+This ensures that React always 'owns' the state of the Form
+
+const App = () => {
     const [cname, setname] = useState();
     const [fname, setfname] = useState();
 
