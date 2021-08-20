@@ -20,7 +20,7 @@ export const App = () => {
         <>
         <Navbar/>
         <Switch>
-            <Route exact path='/' component={()=><About name= "About"/>}/>
+            <Route exact path='/' render={()=><About name= "About"/>}/>
             <Route exact path='/contact' component={Contact}/>
             <Route path='/contact/name' component={Name}/>
             <Route  path='/services' render={()=><Services name= "Sevices"/>}/>
